@@ -4,6 +4,7 @@ Built a Weather Fetching Website by API using Bootstrap, HTML, CSS
 
 Built my portfolio using Tailwind,JavaScript,HTML.
 ![Screenshot 2024-11-08 151239](https://github.com/user-attachments/assets/0f32fab0-48bb-4129-943a-3b24b5d7937e)
+![Screenshot 2024-11-08 151854](https://github.com/user-attachments/assets/50b54257-5c54-4df3-8b11-edfae05b0846)
 
 Developed Simon Says Game using CSS,HTML,JS
 ![Screenshot 2024-11-08 150824](https://github.com/user-attachments/assets/1841ca67-aeb1-4ab6-9092-a100aafa728d)
